@@ -1,0 +1,27 @@
+
+{
+    "default_action": "BLOCK",
+    "rules": [
+        {
+            "protocol": "TCP",
+            "port": 80,
+            "action": "ALLOW"
+        },
+        {
+            "protocol": "TCP",
+            "port": 443,
+            "action": "ALLOW"
+        },
+        {
+            "protocol": "UDP",
+            "port": 53,
+            "action": "ALLOW"
+        },
+        {   
+             "protocol": "TCP",
+              "port": 8080,
+              "action": "ALLOW" 
+         }
+    ]
+}
+
