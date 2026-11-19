@@ -168,7 +168,7 @@ This project is developed for educational purposes and authorized cybersecurity 
 
 ## Author
 
-**Aritra Pal**
+** Aritra Pal**
 
 Cybersecurity Student | Cyber crime investigator and fraud analyst
 
