@@ -170,6 +170,6 @@ This project is developed for educational purposes and authorized cybersecurity 
 
 **Aritra Pal**
 
-Cybersecurity Student | CSE
+Cybersecurity Student | Cyber crime investigator and fraud analyst
 
 Personal Firewall Using Python
